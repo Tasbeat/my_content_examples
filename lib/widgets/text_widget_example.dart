@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class TextWidgetExample extends StatelessWidget {
   const TextWidgetExample({super.key});
-
+//text widget example
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
