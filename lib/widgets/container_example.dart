@@ -6,7 +6,7 @@ class ContainerExample extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Scaffold(
+      home: Scaffold(   //
         body: Center(
           child: Container(
             decoration: BoxDecoration(
