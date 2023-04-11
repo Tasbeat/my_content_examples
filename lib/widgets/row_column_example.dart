@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class RowAndColumnExample extends StatelessWidget {
   const RowAndColumnExample({super.key});
-
+//column sample
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
