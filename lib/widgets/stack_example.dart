@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class StackExample extends StatelessWidget {
   const StackExample({super.key});
-
+//stack sample
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
